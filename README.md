@@ -87,8 +87,8 @@ Aunque churn es tabular, se reinterpretan features como señal 1D para explorar 
 
 ## Curvas y resultados (CNN)
 
-![CNN Loss](figures/cnn_loss.png)
-![CNN AUC](figures/cnn_auc.png)
+![CNN Loss](figures/cnn_loss2.png)
+![CNN AUC](figures/cnn_auc2.png)
 
 **Resultados en test (CNN 1D):**
 - Accuracy: 0.7956  
@@ -99,9 +99,9 @@ Aunque churn es tabular, se reinterpretan features como señal 1D para explorar 
 - PR-AUC: 0.6323  
 
 **Gráficos:**
-![CNN CM](figures/cnn_cm.png)
-![CNN ROC](figures/cnn_roc.png)
-![CNN PR](figures/cnn_pr.png)
+![CNN CM](figures/cnn_cm2.png)
+![CNN ROC](figures/cnn_roc2.png)
+![CNN PR](figures/cnn_pr2.png)
 
 ---
 
